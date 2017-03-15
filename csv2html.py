@@ -44,10 +44,3 @@ def main():
     html.close()
 
 main()
-    
-    
-    
-    
-
-   
-            
