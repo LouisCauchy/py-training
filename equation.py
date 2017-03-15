@@ -1,5 +1,3 @@
-# quadratic
-
 import math
 import cmath
 import sys

@@ -1,5 +1,6 @@
 import math
 # 1
+
 def arithmetic(x,y,oper):
     if oper == "+":
         return x+y
@@ -10,6 +11,7 @@ def arithmetic(x,y,oper):
     else:
         return "Неизвестная операция"
 # 2
+
 def is_year_leap(year):
     if year % 400 == 0 or (year % 4 ==0 and year %100 != 0):
         return "Год высокосный"
@@ -47,4 +49,3 @@ def is_prime(number):
         if number % i == 0:
             return False
     return True
-    

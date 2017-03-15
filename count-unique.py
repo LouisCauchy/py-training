@@ -10,5 +10,5 @@ def process(lst):
 def main():
 	lst = input("Enter values:").split(',')
 	print(process(lst))
-
+	
 main()

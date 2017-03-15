@@ -14,7 +14,6 @@ def parsing():
             words.append(i)
     words.pop(4)
     words.pop(5)
-    
 
 def making_html():
     code = "<table><tr>"
